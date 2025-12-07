@@ -46,11 +46,11 @@ Source :
 
 [https://www.msdmanuals.com/fr/professional/sujets-spéciaux/prise-en-charge-du-patient-chirurgical/soins-post-opératoires](https://www.msdmanuals.com/fr/professional/sujets-sp%C3%A9ciaux/prise-en-charge-du-patient-chirurgical/soins-post-op%C3%A9ratoires)
 
-# Retour de bloc — pneumo (exemple lobectomie)
+## Retour de bloc — pneumo (exemple lobectomie)
 
-## Surveillances spécifiques
+### Surveillances spécifiques
 
-- Saturation / débit O_2
+- Saturation / débit O$_2$
 - Fréquence cardiaque (FA rapide fréquente en post-op)
 - Tension artérielle
 - Abords vasculaires
@@ -58,3 +58,54 @@ Source :
 - État des pansements de drain et thoracotomie ou de VATS (lobectomie par thoracoscopie vidéo-assistée (VATS))
 - Réfection des pansements de drain chaque jour
 - Changement pansement de thoracotomie à J1 (pose PST transparent type Comfeel pour surveillance visuelle plaie chirurgicale)
+
+## Retour de bloc — digestif (duodénopancréatectomie céphalique (DPC))
+
+### Surveillances spécifiques
+
+1. **Fonction gastro-intestinale :**
+    - Surveillance de la reprise du transit intestinal.
+    - Gestion des nausées et vomissements.
+    - Surveillance de la tolérance de la reprise alimentaire progressive.
+
+2. **Fonction pancréatique :**
+    - Surveillance des signes de fistule pancréatique (écoulement anormal, douleur).
+    - Contrôle des taux de glucose sanguin (risque de diabète post-opératoire).
+
+3. **Fonction hépatique :**
+    - Surveillance des enzymes hépatiques.
+    - Surveillance de la bilirubine pour détecter toute obstruction biliaire.
+  
+> L'iléus intestinal est un arrêt temporaire du péristaltisme intestinal. Il apparaît le plus souvent après une chirurgie abdominale, particulièrement quand les intestins ont été manipulés. Les symptômes sont des nausées, des vomissements et une vague gêne abdominale. Le diagnostic repose sur des signes radiographiques et l'aspect clinique. Le traitement est un traitement de support, avec une aspiration nasogastrique et un apport hydroélectrolytique IV.
+> 
+> Source : [https://www.msdmanuals.com//fr/professional/Troubles-gastro-intestinaux/Abdomen-aigu-et-chirurgie-digestive/Il%C3%A9us](https://www.msdmanuals.com//fr/professional/Troubles-gastro-intestinaux/Abdomen-aigu-et-chirurgie-digestive/Il%C3%A9us)
+
+# Préparation d'une PCA
+
+## Prescription type pour préparation de la solution
+
+- Morphine : 50 mg / 5 mL
+- Dropéridol : 2,5 mg / 1 mL
+- Volume total TTT = 6 mL
+- À diluer dans 50 mL de NacL (auquel on aura enlevé -6 mL, ainsi la concentration en morphine est ramenée à 1 mg / mL)
+
+## Configuration PCA
+
+Sauf prescription médicale contraire :
+
+- Bolus : 1 mg
+- Période réfractaire : 7 min 
+- Pas de dose de charge
+- Dose max / 4 h : 20 mg
+- Pas de débit continu
+- Pompe Saphir : plusieurs modes possibles, choisir PCA. 
+
+Mot de passe : XXXX (demander à l'IDE référent) 
+
+<aside>
+⚠️ **Bolus.** Attention si reprise après obstruction ou arrêt = vérifier volume administré et restant.
+</aside>
+
+<aside>
+⚠️ Toujours avec un vecteur.
+</aside>
