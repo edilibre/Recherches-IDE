@@ -2,7 +2,7 @@
 
 # Fichiers sources et cibles
 PANDOC ?= pandoc
-PANDOC_FLAGS ?= -s --toc --css=tufte.css
+PANDOC_FLAGS ?= -s --toc # --css=tufte.css
 
 MD_FILES := $(shell find . -type f -name '*.md' -print)
 HTML_FILES := $(patsubst %.md,%.html,$(MD_FILES))
