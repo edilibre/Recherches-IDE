@@ -4,11 +4,7 @@ title: Activités de soins en USC à l'Union
 
 Retour à l'accueil : [Infos utiles en USC à l'Union](index.html)
 
-# Retours de bloc
-
-Fiche générique résumée de cette page :
-
-[https://www.msdmanuals.com/fr/professional/sujets-spéciaux/prise-en-charge-du-patient-chirurgical/soins-post-opératoires](https://www.msdmanuals.com/fr/professional/sujets-sp%C3%A9ciaux/prise-en-charge-du-patient-chirurgical/soins-post-op%C3%A9ratoires)
+# Retours de bloc opératoire - Surveillance post-opératoire immédiate
 
 **Points critiques immédiats**
   ~ Voies respiratoires, hémodynamique, douleur, état neuro/psychique, plaies/pansements 
@@ -45,3 +41,20 @@ Fiche générique résumée de cette page :
  
 **Précautions spécifiques**
   ~ Positionnement et mobilisations appropriés pour éviter les complications (ex : chirurgie de la hanche). 
+
+Source :
+
+[https://www.msdmanuals.com/fr/professional/sujets-spéciaux/prise-en-charge-du-patient-chirurgical/soins-post-opératoires](https://www.msdmanuals.com/fr/professional/sujets-sp%C3%A9ciaux/prise-en-charge-du-patient-chirurgical/soins-post-op%C3%A9ratoires)
+
+# Retour de bloc — pneumo (exemple lobectomie)
+
+## Surveillances spécifiques
+
+- Saturation / débit O2
+- Fréquence cardiaque (FA rapide fréquente en post-op)
+- Tension artérielle
+- Abords vasculaires
+- Paramètres, niveaux et cinétique de remplissage des dispositifs de recueil des drains (Pleurevac, Thopaz)
+- État des pansements de drain et thoracotomie ou de VATS (lobectomie par thoracoscopie vidéo-assistée (VATS))
+- Réfection des pansements de drain chaque jour
+- Changement pansement de thoracotomie à J1 (pose PST transparent type Comfeel pour surveillance visuelle plaie chirurgicale)
