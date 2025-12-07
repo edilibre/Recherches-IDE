@@ -1,6 +1,11 @@
+---
+title: Infos utiles en USC à l'Union
+author: Sébastien Mengin
+---
+
 # Suivi des aides et recherches infirmières
 
-Ce projet contient des ressources et des guides pour les infirmiers, notamment :
+Ce projet contient des ressources et des guides pour les paramédicaux en USC à l'Union, notamment :
 
 - **Aide cognitive USC** : Un document détaillant les vérifications et protocoles à suivre pour les soins en unité de surveillance continue.
 - **Numéros utiles** : Une liste de contacts essentiels pour les différents services hospitaliers.
