@@ -18,7 +18,7 @@ header-includes:
 - \usepackage{tcolorbox}
 ---
 
-Retour à l'accueil : [Infos utiles en USC à l'Union](index.html)
+Retour à l'accueil : [Infos utiles en USC](index.html)
 
 **N° utiles :** 
 
@@ -176,7 +176,7 @@ Retour à l'accueil : [Infos utiles en USC à l'Union](index.html)
 
 \textbf{Bradycardie sévère :} Atropine 0,5 mg/mL (pure)
 
-\textbf{Tacchycardie :} Cordarone 300 mg (ou 5 mg/kg) dilués dans 20 ml de sérum glucosé à 5 % et injectés rapidement
+\textbf{Tacchycardie :} Cordarone 300 mg (ou 5 mg/kg) dilués dans 20 ml de sérum glucosé à 5 % et injectés rapidement (20-30 minutes).
 
 \textbf{Hypotension transitoire :} éphédrine 3 mg/mL
 \end{tcolorbox}

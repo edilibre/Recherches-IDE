@@ -1,8 +1,8 @@
 ---
-title: Activités de soins en USC à l'Union
+title: Activités de soins en USC
 ---
 
-Retour à l'accueil : [Infos utiles en USC à l'Union](index.html)
+Retour à l'accueil : [Infos utiles en USC](index.html)
 
 # Retours de bloc opératoire - Surveillance post-opératoire immédiate
 
@@ -50,7 +50,7 @@ Source :
 
 ## Surveillances spécifiques
 
-- Saturation / débit O2
+- Saturation / débit O_2
 - Fréquence cardiaque (FA rapide fréquente en post-op)
 - Tension artérielle
 - Abords vasculaires

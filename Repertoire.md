@@ -2,7 +2,7 @@
 title: Répertoire 
 ---
 
-Retour à l'accueil : [Infos utiles en USC à l'Union](index.html)
+Retour à l'accueil : [Infos utiles en USC](index.html)
 
 # Anesthésistes
 
@@ -137,7 +137,8 @@ Retour à l'accueil : [Infos utiles en USC à l'Union](index.html)
 | Midline                           | 3123 |
 | Pharmacie                         | 1167 4832 4839 |
 | Pompier                           | 1123 |
-| Psychologues                      | Rachel 5178, Bérangère 5177 |
+| Psychologues                      | Rachel 5178
+|                                   | Bérangère 5177 |
 | Remplacements                     | 1926 |
 | Rémi pharmacien                   | 4829 |
 | Sandra                            | 1976 |
