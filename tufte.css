@@ -236,6 +236,11 @@ a:visited {
     text-decoration-thickness: 0.05em;
 }
 
+tr.odd {
+    background-color: grey;
+    color: black
+}
+
 /* Sidenotes, margin notes, figures, captions */
 img {
     max-width: 100%;
