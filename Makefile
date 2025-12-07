@@ -12,13 +12,13 @@ HTML_FILES := $(patsubst %.md,%.html,$(MD_FILES))
 
 all: $(HTML_FILES)
 
-# Règle générique : créer le répertoire de sortie puis convertir
+# Règle générique : convertir %.md en %.html
 %.html: %.md
-	$(PANDOC) $(PANDOC_FLAGS) $< -s -o $@
+	$(PANDOC) $(PANDOC_FLAGS) $< -o $@
 
 help:
 	@echo "Utilisation : make         # convertit tous les .md en .html (récursif)"
-	@echo "            make clean   # supprime tous les .html générés"
+	@echo "              make clean   # supprime tous les .html générés"
 	@echo "Variables : PANDOC='...' PANDOC_FLAGS='...'"
 
 # Nettoyage des fichiers html générés
