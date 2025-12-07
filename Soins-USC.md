@@ -76,8 +76,9 @@ Source :
     - Surveillance des enzymes hépatiques.
     - Surveillance de la bilirubine pour détecter toute obstruction biliaire.
   
-> L'iléus intestinal est un arrêt temporaire du péristaltisme intestinal. Il apparaît le plus souvent après une chirurgie abdominale, particulièrement quand les intestins ont été manipulés. Les symptômes sont des nausées, des vomissements et une vague gêne abdominale. Le diagnostic repose sur des signes radiographiques et l'aspect clinique. Le traitement est un traitement de support, avec une aspiration nasogastrique et un apport hydroélectrolytique IV.
-> 
+> **Info complémentaire**
+  L'iléus intestinal est un arrêt temporaire du péristaltisme intestinal. Il apparaît le plus souvent après une chirurgie abdominale, particulièrement quand les intestins ont été manipulés. Les symptômes sont des nausées, des vomissements et une vague gêne abdominale. Le diagnostic repose sur des signes radiographiques et l'aspect clinique. Le traitement est un traitement de support, avec une aspiration nasogastrique et un apport hydroélectrolytique IV.
+
 > Source : [https://www.msdmanuals.com//fr/professional/Troubles-gastro-intestinaux/Abdomen-aigu-et-chirurgie-digestive/Il%C3%A9us](https://www.msdmanuals.com//fr/professional/Troubles-gastro-intestinaux/Abdomen-aigu-et-chirurgie-digestive/Il%C3%A9us)
 
 # Préparation d'une PCA
@@ -102,10 +103,6 @@ Sauf prescription médicale contraire :
 
 Mot de passe : XXXX (demander à l'IDE référent) 
 
-<aside>
 ⚠️ **Bolus.** Attention si reprise après obstruction ou arrêt = vérifier volume administré et restant.
-</aside>
 
-<aside>
-⚠️ Toujours avec un vecteur.
-</aside>
+⚠️ Toujours avec un vecteur (seringue électrique).
